@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="22.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Report1" SnapGridSize="25" ReportUnit="TenthsOfAMillimeter" Margins="100, 100, 65.60416, 29.770792" PaperKind="A4" PageWidth="2100" PageHeight="2970" Version="22.2" Dpi="254" Font="Arial, 9.75pt">
+  <Bands>
+    <Item1 Ref="1" ControlType="DetailBand" Name="Detail" HeightF="500" Dpi="254">
+      <HierarchyPrintOptions Ref="2" Indent="50.8" />
+      <MultiColumn Ref="3" ColumnWidth="350" Layout="AcrossThenDown" Mode="UseColumnWidth" />
+      <Controls>
+        <Item1 Ref="4" ControlType="XRPanel" Name="panel1" CanGrow="false" SizeF="338.229248,500" LocationFloat="0,0" Dpi="254" Borders="All" BorderWidth="0">
+          <Controls>
+            <Item1 Ref="5" ControlType="XRLabel" Name="label1" Multiline="true" Text="label1" TextAlignment="TopCenter" SizeF="307.458344,79.375" LocationFloat="0,410.999969" Dpi="254" Font="Arial, 7pt" Padding="5,5,0,0,254" BorderWidth="0">
+              <ExpressionBindings>
+                <Item1 Ref="6" EventName="BeforePrint" PropertyName="Text" Expression="[HoVaTen]" />
+              </ExpressionBindings>
+              <StylePriority Ref="7" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="8" ControlType="XRPictureBox" Name="pictureBox1" ImageUrl="[NguoiLX_HoSo].[DuongDanAnh]" Sizing="ZoomImage" SizeF="306.916656,404.8125" LocationFloat="0.541673958,3.18746686" Dpi="254">
+              <ExpressionBindings>
+                <Item1 Ref="9" EventName="BeforePrint" PropertyName="ImageSource" Expression="[NguoiLX_HoSo].[DuongDanAnh]" />
+                <Item2 Ref="10" EventName="BeforePrint" PropertyName="ImageUrl" Expression="[NguoiLX_HoSo].[DuongDanAnh]" />
+              </ExpressionBindings>
+            </Item2>
+          </Controls>
+          <StylePriority Ref="11" UseBorderWidth="false" />
+        </Item1>
+      </Controls>
+    </Item1>
+    <Item2 Ref="12" ControlType="TopMarginBand" Name="TopMargin" HeightF="65.60416" Dpi="254" />
+    <Item3 Ref="13" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="29.770792" Dpi="254" />
+  </Bands>
+  <ReportPrintOptions Ref="14" DetailCountOnEmptyDataSource="25" />
+  <ComponentStorage>
+    <Item1 Ref="15" ObjectType="DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.DataAccess.v22.2" Name="sqlDataSource1" Base64="PFNxbERhdGFTb3VyY2UgTmFtZT0ic3FsRGF0YVNvdXJjZTEiPjxDb25uZWN0aW9uIE5hbWU9ImxvY2FsaG9zdF9ncGx4X2NzZHRfQk1fQ29ubmVjdGlvbiIgRnJvbUFwcENvbmZpZz0idHJ1ZSIgLz48UXVlcnkgVHlwZT0iU2VsZWN0UXVlcnkiIE5hbWU9Ik5ndW9pTFgiPjxUYWJsZXM+PFRhYmxlIE5hbWU9Ik5ndW9pTFgiIC8+PC9UYWJsZXM+PENvbHVtbnM+PENvbHVtbiBUYWJsZT0iTmd1b2lMWCIgTmFtZT0iTWFESyIgLz48Q29sdW1uIFRhYmxlPSJOZ3VvaUxYIiBOYW1lPSJIb1ZhVGVuIiAvPjwvQ29sdW1ucz48L1F1ZXJ5PjxRdWVyeSBUeXBlPSJTZWxlY3RRdWVyeSIgTmFtZT0iTmd1b2lMWF9Ib1NvIj48VGFibGVzPjxUYWJsZSBOYW1lPSJOZ3VvaUxYX0hvU28iIC8+PC9UYWJsZXM+PENvbHVtbnM+PENvbHVtbiBUYWJsZT0iTmd1b2lMWF9Ib1NvIiBOYW1lPSJNYURLIiAvPjxDb2x1bW4gVGFibGU9Ik5ndW9pTFhfSG9TbyIgTmFtZT0iRHVvbmdEYW5BbmgiIC8+PC9Db2x1bW5zPjwvUXVlcnk+PFJlbGF0aW9uIE1hc3Rlcj0iTmd1b2lMWCIgRGV0YWlsPSJOZ3VvaUxYX0hvU28iPjxLZXlDb2x1bW4gTWFzdGVyPSJNYURLIiBEZXRhaWw9Ik1hREsiIC8+PC9SZWxhdGlvbj48UmVzdWx0U2NoZW1hPjxEYXRhU2V0IE5hbWU9InNxbERhdGFTb3VyY2UxIj48VmlldyBOYW1lPSJOZ3VvaUxYIj48RmllbGQgTmFtZT0iTmd1b2lMWE5ndW9pTFhfSG9TbyIgVHlwZT0iVW5rbm93biIgLz48RmllbGQgTmFtZT0iTWFESyIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJIb1ZhVGVuIiBUeXBlPSJTdHJpbmciIC8+PC9WaWV3PjxWaWV3IE5hbWU9Ik5ndW9pTFhfSG9TbyI+PEZpZWxkIE5hbWU9Ik1hREsiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iRHVvbmdEYW5BbmgiIFR5cGU9IlN0cmluZyIgLz48L1ZpZXc+PFJlbGF0aW9uIE1hc3Rlcj0iTmd1b2lMWCIgRGV0YWlsPSJOZ3VvaUxYX0hvU28iPjxLZXlDb2x1bW4gTWFzdGVyPSJNYURLIiBEZXRhaWw9Ik1hREsiIC8+PC9SZWxhdGlvbj48L0RhdGFTZXQ+PC9SZXN1bHRTY2hlbWE+PENvbm5lY3Rpb25PcHRpb25zIENsb3NlQ29ubmVjdGlvbj0idHJ1ZSIgLz48L1NxbERhdGFTb3VyY2U+" />
+  </ComponentStorage>
+</XtraReportsLayoutSerializer>

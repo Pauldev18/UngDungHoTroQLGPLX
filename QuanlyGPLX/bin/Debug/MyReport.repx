@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="22.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="rptChungChi" Margins="100, 100, 404.1667, 215.625" PageWidth="850" PageHeight="1100" Version="22.2" Font="Arial, 9.75pt">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="TopMargin" HeightF="404.1667">
+      <Controls>
+        <Item1 Ref="2" ControlType="XRLabel" Name="xrLabel2" Multiline="true" Text="abc" SizeF="78.125,23" LocationFloat="152.0833,50.99999" Padding="2,2,0,0,100" />
+        <Item2 Ref="3" ControlType="XRLabel" Name="xrLabel1" Multiline="true" Text="Tên học sinh:" SizeF="100,23" LocationFloat="70.8333359,171.833328" Padding="2,2,0,0,100" />
+      </Controls>
+    </Item1>
+    <Item2 Ref="4" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="215.625" />
+    <Item3 Ref="5" ControlType="DetailBand" Name="Detail" HeightF="348.9583" />
+  </Bands>
+</XtraReportsLayoutSerializer>

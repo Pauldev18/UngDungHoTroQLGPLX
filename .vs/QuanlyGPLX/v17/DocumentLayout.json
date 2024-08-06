@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|c:\\users\\admin\\downloads\\quanlygplx\\quanlygplx\\frminchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frminchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmbaocao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmbaocao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frminhinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminhinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frminthehocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminthehocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmquanlygplx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmquanlygplx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmsoquanlyhssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmsoquanlyhssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmphieuthoidoilx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmphieuthoidoilx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\rptchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\rptchungchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmchuyenkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmchuyenkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmcapnhatthongtintotnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmcapnhatthongtintotnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\rptchungchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\rptchungchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frminthehocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminthehocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmbaocao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmbaocao2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmcapnhatthongtintotnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmcapnhatthongtintotnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frminhinhanh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frminhinhanh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmsoquanlyhssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmsoquanlyhssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\CSDT\\FPT.GPLX.exe.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmquanlygplx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmquanlygplx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|C:\\Users\\admin\\Downloads\\QuanlyGPLX\\quanlygplx\\frmsoquanlyhssv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84826B50-A97C-4C6E-8FF9-E4E73C44C460}|QuanlyGPLX\\QuanlyGPLX.csproj|solutionrelative:quanlygplx\\frmsoquanlyhssv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSoQuanlyHSSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmSoQuanlyHSSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:28:53.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQuanlyGPLX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmQuanlyGPLX.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmQuanlyGPLX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:26.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInChungChi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInChungChi.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInChungChi.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInChungChi.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmInChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:58:21.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInTheHocVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInTheHocVien.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInTheHocVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInTheHocVien.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmInTheHocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:42.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInHinhAnh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInHinhAnh.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInHinhAnh.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInHinhAnh.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmInHinhAnh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:08:28.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInChungChi.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInChungChi.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInChungChi.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInChungChi.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmInChungChi.cs",
+              "ViewState": "AQIAAH0CAAAAAAAAAAAUwHICAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:28:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\App.config",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\App.config",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\App.config",
+              "RelativeToolTip": "QuanlyGPLX\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-27T06:07:49.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBaoCao2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmBaoCao2.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmBaoCao2.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmBaoCao2.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmBaoCao2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:56.446Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Program.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Program.cs",
+              "RelativeToolTip": "QuanlyGPLX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:23:09.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPhieuThoiDoiLX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmPhieuThoiDoiLX.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmPhieuThoiDoiLX.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmPhieuThoiDoiLX.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmPhieuThoiDoiLX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:23:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:47:47.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Translate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Translate.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\Translate.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Translate.cs",
+              "RelativeToolTip": "QuanlyGPLX\\Translate.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAwLIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:41:39.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmInTheHocVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInTheHocVien.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInTheHocVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInTheHocVien.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmInTheHocVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:41:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "rptChungChi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\rptChungChi.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\rptChungChi.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\rptChungChi.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\rptChungChi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:54:31.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmBaoCao2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmBaoCao2.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmBaoCao2.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmBaoCao2.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmBaoCao2.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAEwI8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:52:08.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rptChungChi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\rptChungChi.Designer.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\rptChungChi.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\rptChungChi.Designer.cs",
+              "RelativeToolTip": "QuanlyGPLX\\rptChungChi.Designer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv0kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:25:48.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\Form1.cs",
+              "RelativeToolTip": "QuanlyGPLX\\Form1.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAmwLoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:48:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmCapnhatthongtintotnghiep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:00:18.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "myClass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\myClass.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\myClass.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\myClass.cs",
+              "RelativeToolTip": "QuanlyGPLX\\myClass.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:08:05.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmInHinhAnh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInHinhAnh.Designer.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmInHinhAnh.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmInHinhAnh.Designer.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmInHinhAnh.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAawOEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:23:22.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmCapnhatthongtintotnghiep.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmCapnhatthongtintotnghiep.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwNkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:22:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FPT.GPLX.exe.Config",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CSDT\\FPT.GPLX.exe.Config",
+              "RelativeDocumentMoniker": "..\\CSDT\\FPT.GPLX.exe.Config",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CSDT\\FPT.GPLX.exe.Config",
+              "RelativeToolTip": "..\\CSDT\\FPT.GPLX.exe.Config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-24T16:33:12.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmQuanlyGPLX.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmQuanlyGPLX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmSoQuanlyHSSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.Designer.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmSoQuanlyHSSV.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.Designer.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmSoQuanlyHSSV.Designer.cs",
+              "ViewState": "AQIAAMQDAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmSoQuanlyHSSV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "RelativeToolTip": "QuanlyGPLX\\frmSoQuanlyHSSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:29:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmChuyenKhoaHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmChuyenKhoaHoc.cs",
+              "RelativeDocumentMoniker": "QuanlyGPLX\\frmChuyenKhoaHoc.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanlyGPLX\\QuanlyGPLX\\frmChuyenKhoaHoc.cs [Design]",
+              "RelativeToolTip": "QuanlyGPLX\\frmChuyenKhoaHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:28:19.714Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

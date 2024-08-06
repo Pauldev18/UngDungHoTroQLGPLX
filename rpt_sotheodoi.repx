@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="22.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Report2" Margins="100, 100, 50, 35.9587364" PaperKind="A4" PageWidth="827" PageHeight="1169" Version="22.2" Font="Arial, 9.75pt">
+  <Parameters>
+    <Item1 Ref="2" Description="Parameter1" ValueInfo="0" Name="madk" Type="#Ref-1" />
+    <Item2 Ref="3" Description="Parameter1" ValueInfo="0" Name="hoten" Type="#Ref-1" />
+    <Item3 Ref="4" Description="Parameter1" ValueInfo="0" Name="ngaysinh" Type="#Ref-1" />
+    <Item4 Ref="5" Description="Parameter1" ValueInfo="0" Name="dctt" Type="#Ref-1" />
+    <Item5 Ref="6" Description="Parameter1" ValueInfo="0" Name="cccd" Type="#Ref-1" />
+    <Item6 Ref="7" Description="Parameter1" ValueInfo="0" Name="tndn" Type="#Ref-1" />
+    <Item7 Ref="8" Description="Parameter1" ValueInfo="0" Name="hang" Type="#Ref-1" />
+    <Item8 Ref="9" Description="Parameter1" ValueInfo="0" Name="lop" Type="#Ref-1" />
+  </Parameters>
+  <Bands>
+    <Item1 Ref="10" ControlType="TopMarginBand" Name="TopMargin" HeightF="50" />
+    <Item2 Ref="11" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="35.9587364" />
+    <Item3 Ref="12" ControlType="DetailBand" Name="Detail" HeightF="971.0831">
+      <Controls>
+        <Item1 Ref="13" ControlType="XRLine" Name="line19" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.91673,835.656" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="14" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item1>
+        <Item2 Ref="15" ControlType="XRLine" Name="line20" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.0417,835.656" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="16" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item2>
+        <Item3 Ref="17" ControlType="XRLine" Name="line21" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,835.656" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="18" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item3>
+        <Item4 Ref="19" ControlType="XRLine" Name="line22" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,887.432" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="20" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item4>
+        <Item5 Ref="21" ControlType="XRLine" Name="line23" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.0417,887.432" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="22" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item5>
+        <Item6 Ref="23" ControlType="XRLine" Name="line24" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.9167614,887.432" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="24" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item6>
+        <Item7 Ref="25" ControlType="XRLine" Name="line25" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,939.208" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="26" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item7>
+        <Item8 Ref="27" ControlType="XRLine" Name="line26" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041733,939.208" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="28" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item8>
+        <Item9 Ref="29" ControlType="XRLine" Name="line27" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.9167938,939.208" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="30" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item9>
+        <Item10 Ref="31" ControlType="XRLine" Name="line10" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.9166985,680.328" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="32" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item10>
+        <Item11 Ref="33" ControlType="XRLine" Name="line11" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,680.328" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="34" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item11>
+        <Item12 Ref="35" ControlType="XRLine" Name="line12" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,680.328" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="36" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item12>
+        <Item13 Ref="37" ControlType="XRLine" Name="line13" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,732.104" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="38" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item13>
+        <Item14 Ref="39" ControlType="XRLine" Name="line14" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,732.104" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="40" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item14>
+        <Item15 Ref="41" ControlType="XRLine" Name="line15" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.91673,732.104" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="42" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item15>
+        <Item16 Ref="43" ControlType="XRLine" Name="line16" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,783.88" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="44" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item16>
+        <Item17 Ref="45" ControlType="XRLine" Name="line17" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,783.88" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="46" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item17>
+        <Item18 Ref="47" ControlType="XRLine" Name="line18" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.91673,783.88" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="48" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item18>
+        <Item19 Ref="49" ControlType="XRLine" Name="line7" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.9166985,628.552" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="50" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item19>
+        <Item20 Ref="51" ControlType="XRLine" Name="line8" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,628.552" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="52" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item20>
+        <Item21 Ref="53" ControlType="XRLine" Name="line9" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,628.552" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="54" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item21>
+        <Item22 Ref="55" ControlType="XRLine" Name="line4" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.9166985,576.776" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="56" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item22>
+        <Item23 Ref="57" ControlType="XRLine" Name="line5" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,576.776" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="58" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item23>
+        <Item24 Ref="59" ControlType="XRLine" Name="line6" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,576.776" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="60" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item24>
+        <Item25 Ref="61" ControlType="XRLine" Name="line3" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="455.166626,525" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="62" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item25>
+        <Item26 Ref="63" ControlType="XRLine" Name="line2" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="251.041672,525" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="64" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item26>
+        <Item27 Ref="65" ControlType="XRLine" Name="line1" LineWidth="2" LineStyle="Dot" SizeF="152.499985,21.875" LocationFloat="22.916666,525" BorderWidth="6" BorderDashStyle="Dot">
+          <StylePriority Ref="66" UseBorderWidth="false" UseBorderDashStyle="false" />
+        </Item27>
+        <Item28 Ref="67" ControlType="XRLabel" Name="label24" Multiline="true" Text="Lớp:" TextAlignment="MiddleLeft" SizeF="41.041687,24.99997" LocationFloat="465.208374,468.999878" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="68" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item28>
+        <Item29 Ref="69" ControlType="XRLabel" Name="label25" Multiline="true" Text="B2K110A" TextAlignment="MiddleLeft" SizeF="87.91672,24.99997" LocationFloat="506.250061,468.999878" Font="Times New Roman, 13pt, style=Bold" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="70" EventName="BeforePrint" PropertyName="Text" Expression="?lop" />
+          </ExpressionBindings>
+          <StylePriority Ref="71" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item29>
+        <Item30 Ref="72" ControlType="XRLabel" Name="label22" Multiline="true" Text="Hạng:" TextAlignment="MiddleLeft" SizeF="54.58333,24.99997" LocationFloat="266.666656,468.999878" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="73" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item30>
+        <Item31 Ref="74" ControlType="XRLabel" Name="label23" Multiline="true" Text="B2" TextAlignment="MiddleLeft" SizeF="73.33333,24.99997" LocationFloat="321.250031,468.999878" Font="Times New Roman, 13pt, style=Bold" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="75" EventName="BeforePrint" PropertyName="Text" Expression="?hang" />
+          </ExpressionBindings>
+          <StylePriority Ref="76" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item31>
+        <Item32 Ref="77" ControlType="XRLabel" Name="label21" Multiline="true" Text="Ô tô" TextAlignment="MiddleLeft" SizeF="73.33333,24.99997" LocationFloat="105.000053,468.999878" Font="Times New Roman, 13pt, style=Bold" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="78" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item32>
+        <Item33 Ref="79" ControlType="XRLabel" Name="label20" Multiline="true" Text="Loại xe:" TextAlignment="MiddleLeft" SizeF="73.33333,24.99997" LocationFloat="28.7500057,468.999878" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="80" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item33>
+        <Item34 Ref="81" ControlType="XRLabel" Name="label18" Multiline="true" Text="Thời gian:" TextAlignment="MiddleLeft" SizeF="91.04166,24.9999542" LocationFloat="28.7500057,417.741577" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="82" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item34>
+        <Item35 Ref="83" ControlType="XRLabel" Name="label19" Multiline="true" Text="Từ tháng 1 năm 2024 đến tháng 4 năm 2024" TextAlignment="MiddleLeft" SizeF="474.3333,24.99997" LocationFloat="133.333328,417.741577" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="84" EventName="BeforePrint" PropertyName="Text" Expression="?tndn" />
+          </ExpressionBindings>
+          <StylePriority Ref="85" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item35>
+        <Item36 Ref="86" ControlType="XRLabel" Name="label17" Multiline="true" Text="Trường Cao Đẳng Bách khoa Tây Nguyên" TextAlignment="MiddleLeft" SizeF="456.624939,24.99997" LocationFloat="151.041672,366.483276" Font="Times New Roman, 13pt, style=Bold" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="87" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item36>
+        <Item37 Ref="88" ControlType="XRLabel" Name="label16" Multiline="true" Text="Học lái xe tại:" TextAlignment="MiddleLeft" SizeF="113.541634,24.99997" LocationFloat="28.7500057,366.483276" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="89" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item37>
+        <Item38 Ref="90" ControlType="XRLabel" Name="label14" Multiline="true" Text="Điện thoại:" TextAlignment="MiddleLeft" SizeF="91.04166,24.9999542" LocationFloat="28.7499752,315.224976" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="91" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item38>
+        <Item39 Ref="92" ControlType="XRLabel" Name="label15" Multiline="true" Text="............................................................................................................................." TextAlignment="BottomLeft" SizeF="487.875,24.9999542" LocationFloat="119.791634,315.224976" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="93" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item39>
+        <Item40 Ref="94" ControlType="XRLabel" Name="label12" Multiline="true" Text="Số CMND/CCCD/Hộ chiếu:" TextAlignment="MiddleLeft" SizeF="215,25" LocationFloat="28.7500057,263.966644" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="95" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item40>
+        <Item41 Ref="96" ControlType="XRLabel" Name="label13" TextFormatString="{0:n0}" Multiline="true" TextAlignment="MiddleLeft" SizeF="356.624939,25" LocationFloat="251.041672,263.966644" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="97" EventName="BeforePrint" PropertyName="Text" Expression="?cccd" />
+          </ExpressionBindings>
+          <StylePriority Ref="98" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item41>
+        <Item42 Ref="99" ControlType="XRLabel" Name="label10" Multiline="true" Text="Nơi đăng ký thường trú:" TextAlignment="MiddleLeft" SizeF="184.999985,25" LocationFloat="28.7499752,212.708313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="100" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item42>
+        <Item43 Ref="101" ControlType="XRLabel" Name="label11" Multiline="true" TextAlignment="MiddleLeft" SizeF="387.9167,25" LocationFloat="219.749954,212.708313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="102" EventName="BeforePrint" PropertyName="Text" Expression="?dctt" />
+          </ExpressionBindings>
+          <StylePriority Ref="103" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item43>
+        <Item44 Ref="104" ControlType="XRPictureBox" Name="pictureBox1" Sizing="ZoomImage" SizeF="128.124969,151.875" LocationFloat="28.7500057,41.45832" />
+        <Item45 Ref="105" ControlType="XRLabel" Name="label8" Multiline="true" Text="Quốc tịch:" SizeF="84.375,23" LocationFloat="170.8333,168.333313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="106" UseFont="false" UseBorderWidth="false" />
+        </Item45>
+        <Item46 Ref="107" ControlType="XRLabel" Name="label9" Multiline="true" Text="Việt Nam" TextAlignment="MiddleLeft" SizeF="217.708328,25" LocationFloat="270.8333,166.333313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="108" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item46>
+        <Item47 Ref="109" ControlType="XRLabel" Name="label6" Multiline="true" Text="Sinh ngày:" SizeF="84.375,23" LocationFloat="170.833267,132.083313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="110" UseFont="false" UseBorderWidth="false" />
+        </Item47>
+        <Item48 Ref="111" ControlType="XRLabel" Name="label7" Multiline="true" TextAlignment="MiddleLeft" SizeF="217.708328,25" LocationFloat="270.8333,130.083313" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="112" EventName="BeforePrint" PropertyName="Text" Expression="?ngaysinh" />
+          </ExpressionBindings>
+          <StylePriority Ref="113" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item48>
+        <Item49 Ref="114" ControlType="XRLabel" Name="label5" Multiline="true" TextAlignment="MiddleLeft" SizeF="217.708328,25" LocationFloat="270.833282,91.75" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="115" EventName="BeforePrint" PropertyName="Text" Expression="?hoten" />
+          </ExpressionBindings>
+          <StylePriority Ref="116" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item49>
+        <Item50 Ref="117" ControlType="XRLabel" Name="label4" Multiline="true" Text="Họ và tên:" SizeF="84.375,23" LocationFloat="170.833267,93.75" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="118" UseFont="false" UseBorderWidth="false" />
+        </Item50>
+        <Item51 Ref="119" ControlType="XRLabel" Name="label3" Multiline="true" SizeF="217.708221,22.9166641" LocationFloat="270.833374,41.45832" Font="Times New Roman, 13pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <ExpressionBindings>
+            <Item1 Ref="120" EventName="BeforePrint" PropertyName="Text" Expression="?madk" />
+          </ExpressionBindings>
+          <StylePriority Ref="121" UseFont="false" UseBorderWidth="false" />
+        </Item51>
+        <Item52 Ref="122" ControlType="XRLabel" Name="label2" Multiline="true" Text="Mã ĐK :" SizeF="78.1250153,22.9166679" LocationFloat="177.0833,41.45832" Font="Times New Roman, 14pt" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="123" UseFont="false" UseBorderWidth="false" />
+        </Item52>
+        <Item53 Ref="124" ControlType="XRLabel" Name="label1" Multiline="true" Text="PHIẾU THEO DÕI LÁI XE" TextAlignment="TopCenter" SizeF="626.0416,36.4583321" LocationFloat="0.958363235,0" Font="Times New Roman, 20pt, style=Bold" Padding="2,2,0,0,100" BorderWidth="0">
+          <StylePriority Ref="125" UseFont="false" UseBorderWidth="false" UseTextAlignment="false" />
+        </Item53>
+      </Controls>
+    </Item3>
+  </Bands>
+  <DesignerOptions Ref="126" ShowPrintingWarnings="false" ShowExportWarnings="false" />
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v22.2" Ref="1" Content="System.Int32" Type="System.Type" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>
